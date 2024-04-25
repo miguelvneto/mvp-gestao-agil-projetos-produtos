@@ -14,7 +14,7 @@ Para delinear o MVP do OceanStream, conduzimos uma sessão de Lean Inception. Vo
 
 - **Backlog da Sprint:** O arquivo `sprint-backlog.pdf` apresenta o backlog planejado para a primeira sprint, incluindo descrições detalhadas, estimativas e critérios de aceitação para os itens selecionados.
 
-- **Protótipos de Interface:** Na pasta `wireframes/`, você encontrará os protótipos de baixa fidelidade desenvolvidos no Figma para a entrega da primeira sprint.
+- **Protótipos de Interface:** Na pasta `wireframes/`, você encontrará os protótipos desenvolvidos no Figma para a entrega da primeira sprint.
 
 - **Vídeo de Showcase:** O arquivo de vídeo `showcase.mp4` contém uma apresentação de 2 a 4 minutos do projeto OceanStream, demonstrando os principais aspectos do MVP desenvolvido.
 
