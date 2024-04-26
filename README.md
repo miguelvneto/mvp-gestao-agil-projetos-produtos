@@ -16,7 +16,8 @@ Para delinear o MVP do OceanStream, conduzimos uma sessão de Lean Inception. Vo
 
 - **Protótipos de Interface:** Na pasta `wireframes/`, você encontrará os protótipos desenvolvidos no Figma para a entrega da primeira sprint.
 
-- **Vídeo de Showcase:** O arquivo de vídeo `showcase.mp4` contém uma apresentação de 2 a 4 minutos do projeto OceanStream, demonstrando os principais aspectos do MVP desenvolvido.
+- **Vídeo de Showcase:** O arquivo de vídeo `MVP-Oceanstream.webm` contém uma apresentação do projeto OceanStream, demonstrando os principais aspectos do MVP desenvolvido.
+-  link: [Vídeo - OceanStream](https://youtu.be/2t0AKxKyG28).
 
 ## Como Contribuir
 
