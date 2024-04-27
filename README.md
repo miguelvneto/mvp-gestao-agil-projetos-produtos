@@ -4,7 +4,7 @@ OceanStream é um aplicativo de monitoramento oceanográfico em tempo real, proj
 
 ## Lean Inception
 
-Para delinear o MVP do OceanStream, conduzimos uma sessão de Lean Inception. Você pode visualizar o resultado completo da Lean Inception no Miro, através do seguinte link: [Lean Inception - OceanStream](https://miro.com/welcomeonboard/d3REWHVseWdLQTJra1E1M3VhVnVKN1pGYUxBOEZUODNtV2FWQlpzTGV2Y2daS0N6ZGhXMzU1ZHNJbFpRYkZUbHwzNDU4NzY0NTg1ODU3MzMwMjI1fDI=?share_link_id=841109153403).
+Para delinear o MVP do OceanStream, conduzimos uma sessão de Lean Inception. Você pode visualizar o resultado completo da Lean Inception no Miro, através do seguinte link: [Lean Inception - OceanStream](https://miro.com/app/board/uXjVKTBH_kQ=/?share_link_id=613125270340).
 
 ## Estrutura do Repositório
 
